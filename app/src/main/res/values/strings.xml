@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Libros</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="reg">Registrate</string>
+    <string name="entrar">Entrar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="registrar">Registrar</string>
+    <string name="Autor">Autor</string>
+    <string name="pag">Paginas</string>
+    <string name="add">Agregar</string>
+</resources>
