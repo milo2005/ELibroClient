@@ -12,10 +12,6 @@ import unicauca.movil.libros.R;
 import unicauca.movil.libros.databinding.TemplateBookBinding;
 import unicauca.movil.libros.models.Book;
 
-/**
- * Created by darfe on 21/05/2017.
- */
-
 public class BookAdapter extends RecyclerView.Adapter<BookAdapter.BookHolder> {
 
     LayoutInflater inflater;

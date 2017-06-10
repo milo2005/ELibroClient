@@ -9,4 +9,9 @@
     <string name="Autor">Autor</string>
     <string name="pag">Paginas</string>
     <string name="add">Agregar</string>
+    <string name="register_error">Error al conectarse al servidor</string>
+    <string name="register_error_2">Error al registrar usuario</string>
+    <string name="register_success">Registro Exitoso</string>
+    <string name="add_success">Registro Exitoso</string>
+    <string name="add_error">Error al agregar el libro</string>
 </resources>
